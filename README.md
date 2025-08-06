@@ -21,7 +21,7 @@ A JavaScript tool for bulk updating redirection hosts in Nginx Proxy Manager thr
 - Press Enter to run
 
 ```js
-fetch('https://raw.githubusercontent.com/yourusername/npm-bulk-domain-updater/main/npm-bulk-updater.js')
+fetch('https://raw.githubusercontent.com/reytonne/npm-bulk-domain-updater/main/npm-bulk-updater.js')
   .then(r => r.text())
   .then(eval);
 ```
