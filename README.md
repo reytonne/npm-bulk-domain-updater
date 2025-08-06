@@ -1,4 +1,4 @@
-# npm-bulk-domain-updater
+# Nginx Proxy Manager Bulk Domain Updater
 A JavaScript tool for bulk updating redirection hosts in Nginx Proxy Manager through the web interface.
 
 # 📋 Features
