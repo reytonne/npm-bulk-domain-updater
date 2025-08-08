@@ -1,11 +1,12 @@
 /**
  * Nginx Proxy Manager - Bulk Domain Updater
  * Version: 1.0.0
- * Author: GitHub Community
+ * Author: reytonne
  * License: MIT
  * 
  * This script allows bulk updating of redirection hosts in Nginx Proxy Manager
  * through the web interface without direct API or database access.
+ * https://github.com/reytonne/
  */
 
 (async function NginxProxyManagerBulkUpdater() {
